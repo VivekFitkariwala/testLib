@@ -1,6 +1,6 @@
 ---
 description: >-
-  Client side SDK is basically library which exposes functions needed to access
+  Client side SDK is basically library which exposes functions used to access
   API
 ---
 
