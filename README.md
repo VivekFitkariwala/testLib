@@ -6,7 +6,7 @@ description: >-
 
 # Client side SDK
 
-Content for file goes here for sure
+Content for file goes here
 
 ## Init function
 
